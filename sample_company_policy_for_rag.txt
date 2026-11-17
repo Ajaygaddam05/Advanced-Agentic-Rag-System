@@ -1,0 +1,180 @@
+ACME CORPORATE SERVICES
+EMPLOYEE COMPANY POLICY HANDBOOK
+Version: 1.2
+Effective Date: 1 January 2026
+Document Owner: Human Resources
+Note: This is a fictional sample policy document created for testing retrieval-augmented generation (RAG). It is not legal advice or a real company's policy.
+
+============================================================
+1. PURPOSE AND SCOPE
+============================================================
+This handbook describes general workplace policies for employees, interns, contractors, and temporary staff working with Acme Corporate Services. It covers working hours, attendance, leave, remote work, information security, acceptable technology use, expenses, workplace conduct, and reporting concerns.
+
+These policies apply to all company departments unless a written department-specific policy or employment agreement states otherwise. If a policy conflicts with applicable law, applicable law takes precedence. Human Resources is responsible for interpreting this handbook and publishing updates.
+
+============================================================
+2. WORKING HOURS AND ATTENDANCE
+============================================================
+The standard work schedule is Monday through Friday, 9:00 a.m. to 6:00 p.m., with a one-hour lunch break. Employees should be ready to begin work at their scheduled start time.
+
+Employees who expect to arrive more than 15 minutes late should notify their manager as soon as reasonably possible. Repeated unexplained lateness may result in a discussion with the manager and Human Resources.
+
+Some teams may follow shift schedules to support customers in different time zones. Shift timings must be communicated in writing by the team manager. Employees should record attendance using the company's approved attendance system.
+
+Overtime must be approved in writing by the manager before it is worked, except in urgent situations where prior approval is not reasonably possible. Any compensation or time off for overtime will follow the employee's contract and applicable law.
+
+============================================================
+3. LEAVE AND HOLIDAYS
+============================================================
+Full-time employees receive 18 days of annual paid leave per calendar year, subject to their employment agreement and applicable law. Leave is credited monthly. Employees should submit planned leave requests through the HR portal at least five working days before the first day of leave.
+
+Managers review leave requests based on team coverage, project deadlines, and fairness across the team. A request is not approved until the employee receives confirmation in the HR portal or in writing.
+
+For sudden illness or emergencies, employees should notify their manager as early as possible on the first day of absence. A medical certificate may be requested for absences lasting more than three consecutive working days, subject to local law and company procedure.
+
+The company publishes its holiday calendar at the beginning of each calendar year. Employees should consult the HR portal for the official list of holidays applicable to their work location.
+
+Unused leave carryover, encashment, parental leave, and other statutory leave are governed by the employee's employment terms and applicable law. Human Resources can clarify an individual's leave balance.
+
+============================================================
+4. REMOTE AND HYBRID WORK
+============================================================
+Eligible employees may work remotely up to two days per week with manager approval. Certain roles involving secure facilities, physical equipment, or on-site customer requirements may not be eligible.
+
+Employees working remotely must:
+- Be reachable during their agreed working hours.
+- Attend scheduled meetings and communicate delays promptly.
+- Protect company devices and confidential information from access by unauthorized people.
+- Use approved company applications for storing and sharing work files.
+- Keep their work area reasonably secure and private.
+
+Working from another country or a location outside the employee's approved work region requires prior written approval from Human Resources and the employee's manager. Approval may depend on tax, security, employment, and regulatory considerations.
+
+Remote-work arrangements may be reviewed or changed based on business needs, performance, security requirements, or changes in role responsibilities.
+
+============================================================
+5. INFORMATION SECURITY AND CONFIDENTIALITY
+============================================================
+Employees must protect confidential company information, customer information, personal data, financial records, source code, credentials, and internal business documents.
+
+Employees must:
+- Use multi-factor authentication where it is available.
+- Create strong, unique passwords and never share passwords.
+- Lock their computer when leaving it unattended.
+- Store work files only in company-approved systems.
+- Verify recipients before sending sensitive information.
+- Report suspected phishing messages, lost devices, or accidental data disclosures immediately to the IT Help Desk or Security Team.
+
+Confidential information must not be copied to personal email, personal cloud storage, or unapproved removable media. Employees must not discuss confidential matters in public places where others may overhear.
+
+Access to systems and documents is granted according to job responsibilities. Employees must not attempt to access files or systems without authorization, even if they can technically reach them.
+
+Suspected security incidents should be reported to security@acme-example.invalid or through the internal Security Incident form. Do not delete potentially relevant evidence or investigate beyond the employee's authorized role.
+
+============================================================
+6. ACCEPTABLE USE OF COMPANY TECHNOLOGY
+============================================================
+Company laptops, accounts, networks, software, and collaboration tools are provided primarily for legitimate business purposes. Limited personal use is permitted when it is lawful, does not interfere with work, does not create a security risk, and does not cause additional cost to the company.
+
+Employees must not:
+- Install unapproved software or disable security controls.
+- Use company systems to harass, threaten, or discriminate against others.
+- Download or distribute illegal content.
+- Share company credentials or authentication codes.
+- Use company devices to conduct unauthorized security testing.
+- Upload confidential company data to public AI tools unless the tool and use case have been explicitly approved.
+
+Employees using AI tools for work must review generated content for accuracy, bias, confidentiality, and intellectual-property concerns. AI-generated output must not be treated as authoritative without appropriate verification. Sensitive customer data and confidential company information may only be entered into company-approved AI services under the applicable data-handling rules.
+
+The company may monitor use of its systems to the extent permitted by law and company policy. Employees should not expect personal privacy when using company-managed systems, except where protected by applicable law.
+
+============================================================
+7. EXPENSES AND BUSINESS TRAVEL
+============================================================
+Business expenses must be reasonable, necessary for work, and supported by itemized receipts. Employees should obtain manager approval before making any single unplanned purchase above INR 5,000.
+
+Expense claims should be submitted through the expense portal within 30 calendar days of the transaction. Claims should include the business purpose, date, amount, currency, and receipt. Finance may return incomplete claims for correction.
+
+Examples of generally reimbursable expenses, when approved and documented, include business travel, customer meetings, approved training, and necessary work supplies.
+
+Personal entertainment, traffic fines, minibar purchases, personal shopping, and expenses for family members are not reimbursable unless an explicit written exception is approved under company procedure.
+
+Travel bookings should use the company's designated booking process. Employees must follow the travel safety guidance and obtain approval for international travel before booking.
+
+============================================================
+8. CODE OF CONDUCT AND RESPECTFUL WORKPLACE
+============================================================
+Acme Corporate Services expects employees to behave honestly, professionally, and respectfully. Harassment, bullying, discrimination, retaliation, threats, and deliberate misuse of authority are prohibited.
+
+Employment decisions should be based on relevant qualifications, performance, business requirements, and other lawful criteria. Employees should respect differences in background, experience, and working style.
+
+Employees must disclose potential conflicts of interest to their manager or Human Resources. Examples include making purchasing decisions involving a close relative, accepting inappropriate gifts from a supplier, or performing outside work that competes with the company or interferes with job responsibilities.
+
+Employees may not offer or accept bribes, kickbacks, or gifts intended to improperly influence a business decision. Modest customary gifts must be disclosed when required by the company's gifts and hospitality procedure.
+
+Violations may result in corrective action, up to and including termination of employment, subject to applicable law and company procedure.
+
+============================================================
+9. PERFORMANCE, TRAINING, AND DEVELOPMENT
+============================================================
+Managers should provide regular feedback and discuss goals with team members. Formal performance reviews are normally conducted twice each calendar year, although some teams may use a different documented cycle.
+
+Employees are responsible for completing mandatory training by the assigned deadline. Training may cover information security, privacy, workplace conduct, safety, and role-specific skills.
+
+Employees who need additional support should discuss expectations and development goals with their manager. The company may create a written improvement plan when performance does not meet documented role expectations.
+
+============================================================
+10. HEALTH, SAFETY, AND FACILITIES
+============================================================
+Employees must follow safety instructions for offices, equipment, laboratories, and other work areas. Hazards, injuries, damaged equipment, and unsafe conditions should be reported promptly to Facilities or the employee's manager.
+
+Emergency exits must remain clear. Employees should follow local emergency procedures and participate in drills when required.
+
+Visitors must follow sign-in procedures and remain with an authorized host in restricted areas. Employees must not lend access cards to other people or allow unauthorized individuals to enter secure areas.
+
+============================================================
+11. REPORTING CONCERNS AND NON-RETALIATION
+============================================================
+Employees may raise concerns with their manager, Human Resources, the Compliance Team, or the confidential reporting channel described on the company intranet.
+
+Reports may concern suspected fraud, discrimination, harassment, safety risks, privacy incidents, conflicts of interest, or violations of this handbook.
+
+The company will review concerns fairly and as confidentially as reasonably possible. Information may be shared with people who need it to assess or resolve the concern, or where disclosure is required by law.
+
+Retaliation against someone who raises a concern in good faith or participates in an investigation is prohibited. Anyone who believes retaliation has occurred should report it to Human Resources or Compliance.
+
+============================================================
+12. RECORDS AND PERSONAL DATA
+============================================================
+Employees must handle personal data only for legitimate business purposes and only to the extent needed for their role. Personal data should be accurate, access-controlled, and retained only according to approved retention schedules and applicable law.
+
+Employees must not send personal data to unauthorized recipients or use it for unrelated purposes. Requests to access, correct, or delete personal data should be directed to the Privacy Team.
+
+Documents subject to a legal hold, investigation, or formal preservation request must not be destroyed or altered until the hold is released by the authorized team.
+
+============================================================
+13. POLICY EXCEPTIONS AND UPDATES
+============================================================
+Exceptions require written approval from the designated policy owner and any other required approver. A manager's informal verbal permission does not override a policy that requires formal approval.
+
+Human Resources reviews this handbook at least annually and may publish updates when business requirements or applicable laws change. Employees are responsible for reviewing material updates communicated through official company channels.
+
+For questions about this handbook, contact Human Resources through the employee portal.
+
+============================================================
+14. QUICK FACTS FOR RETRIEVAL TESTING
+============================================================
+- Standard working hours: Monday to Friday, 9:00 a.m. to 6:00 p.m.
+- Standard lunch break: one hour.
+- Planned leave request: submit at least five working days in advance.
+- Annual paid leave: 18 days per calendar year for full-time employees, subject to applicable terms and law.
+- Remote work: up to two days per week for eligible employees with manager approval.
+- Manager approval threshold for a single unplanned purchase: above INR 5,000.
+- Expense claim deadline: within 30 calendar days of the transaction.
+- Formal performance reviews: normally twice per calendar year.
+- Confidential data: do not upload to public AI tools unless the tool and use case are explicitly approved.
+- Security incidents: report immediately to the IT Help Desk or Security Team.
+- Policy owner: Human Resources.
+- Review frequency: at least annually.
+
+END OF SAMPLE POLICY
