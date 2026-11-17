@@ -1,0 +1,17 @@
+# Environment variables and API keys
+.env
+.env.*
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Google Colab
+.ipynb_checkpoints/
+
+# ChromaDB local storage
+chroma_db/
+
+# System files
+.DS_Store
+Thumbs.db
